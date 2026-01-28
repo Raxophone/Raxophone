@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+# I am currently working on improving my project turnaround times and actually building projects on my own volition instead of
+# following course requirements. I feel confident in my ability to learn and am currently looking to collaborate on larger projects
+# to better understand the process of making a complete software.
 
 <!--
 **Raxophone/Raxophone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
