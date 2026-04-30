@@ -1,7 +1,8 @@
 ## Eddie Rak
-## Computer Science @ BGSU | Aspiring Software Engineer
+ Computer Science @ BGSU | Aspiring Software Engineer
 
-## I will be implementing more projects based in linux relating to servers in the next year
+I will be implementing more projects based in linux relating to servers in the next year for school.
+I will also continue working on a unity project to publish on steam by the end of 2027!
 
 # Discord bot
 
